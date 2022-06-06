@@ -4,9 +4,9 @@
 1. 该站所有内容伪原创，允许任何人直接使用，如果你是开发者，对本站==任何文件的任何内==容进行了修改，在发布时请注明原作者为：“[思卿长安归](https://shixin.vercel.app)”
 2. 本站对应github仓库地址为：https://github.com/ShiXinBoy/AlistCSS
 3. 本站URL
-  1. vercel:https://alistcss.vercel.app
-  2. github:https://shixinboy.github.io/alistcss
-  3. CDN:https://alistcss.icefox.site
+   1. vercel:https://alistcss.vercel.app
+   2. github:https://shixinboy.github.io/alistcss       https://www.icefox.site/AlistCSS/
+
 
 
 ## 使用方法
