@@ -5,7 +5,7 @@
 2. 本站对应github仓库地址为：https://github.com/ShiXinBoy/AlistCSS
 3. 本站URL
    1. vercel:https://alistcss.vercel.app
-   2. github:https://shixinboy.github.io/alistcss       https://www.icefox.site/AlistCSS/
+   2. github:https://www.icefox.site/AlistCSS/
 
 
 
